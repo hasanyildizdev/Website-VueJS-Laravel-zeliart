@@ -1,8 +1,9 @@
-# Docker-Laravel-VueJS Project
+# Laravel-VueJS Project
 
-This is a website project.
+This is a Art Gallery Website project.
 
 Properties;
 - Laravel Used.
 - Vue JS Used.
-- Docker Used.
+
+Not: Project not finished yet!
